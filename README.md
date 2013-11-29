@@ -16,7 +16,7 @@ As you can see below, express-subdomain-handler can manage single or multiple su
 
 ##Installation
 
-	npm install express-subdomain-handler
+	npm install subdomain-handler
 
 ##Usage
 

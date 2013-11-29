@@ -1,6 +1,6 @@
 {
   "name": "subdomain-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.JS Subdomain Middleware",
   "main": "./lib/esh",  
   "homepage": "http://github.com/zeeshanhanif/subdomain-handler",

@@ -1,7 +1,7 @@
 ##Intro
 
 Thanks for the inspiration @WilsonPage for [express-subdomain-handler](https://github.com/WilsonPage/express-subdomain-handler).
-I Just want to skip checking on specific file extentions like .js, .html, .svg etc
+I Just want to skip checking on specific file extentions like .css, .js, .html, .jpg, .png, .svg, .gif,.woff, .ttf
 
 subdomain-handler takes the headache out of dynamic subdomain routing in [Express](http://expressjs.com). It captures the contents of any
 subdomain and writes them into the Express req.url. This means you can write specific route handlers for subdomain urls.

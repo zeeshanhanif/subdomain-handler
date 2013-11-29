@@ -1,0 +1,22 @@
+{
+  "name": "subdomain-handler",
+  "version": "0.0.1",
+  "description": "Node.JS Subdomain Middleware",
+  "main": "./lib/esh",  
+  "homepage": "http://github.com/zeeshanhanif/subdomain-handler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeeshanhanif/subdomain-handler.git"
+  },
+  "keywords": [
+    "express",
+    "subdomain",
+    "middleware",
+    "domain"
+  ],
+  "engines":{
+      "node":">= 0.2.2"
+  },
+  "author": "Zeeshan Hanif",
+  "license": "MIT"
+}
